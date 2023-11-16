@@ -8,7 +8,7 @@ input link:
 
 
 finish download:
-file:///home/aden/Pictures/Screenshots/Screenshot%20from%202023-11-16%2011-06-36.png
+
 
 
 download failed:
